@@ -25,3 +25,5 @@ Basic Social Media using React Js
 1) React JS (JavaScript)
 2) HTML
 3) CSS
+
+Live Link -> https://socialmedia-react-vaibhavgupta5.netlify.app/
