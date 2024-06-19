@@ -55,7 +55,7 @@ const CreatePost = () => {
       .then((res) => res.json())
       .then((post) => {
         addPost(post); //Once 200 then addPost func is passed the obj to create
-      }, navigate("/home"));
+      }, navigate("/"));
   };
 
   return (
